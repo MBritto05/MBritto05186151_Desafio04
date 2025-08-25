@@ -1,9 +1,9 @@
 
 #DESAFIO 4
 
-- Link do site disponibilizado: https://portfolio-react-vite-wheat.vercel.app/
+- Link do site disponibilizado: [https://portfolio-react-vite-wheat.vercel.app/](https://dnc-portfolio-miguel.netlify.app/)
 
-* Este projeto foi feito durante a formação de engenharia de Software da Escola DNC
+* Este projeto foi feito durante a formação de Desenvolvedor Front End da Escola DNC
 
 * a ideia é desenvolver um portfolio usando vite + react  usando hooks como useState e UseEffect
 
@@ -11,5 +11,3 @@
 
 Foi utilizado HTML, CSS, JS e REACT + VITE .
 
-
-- A branch Main é a branch principal do projeto e contem todas as alterações. A version-1 contém uma versão anterior! 
